@@ -1,0 +1,23 @@
+---
+title: "Welcome!"
+about:
+  template: jolla
+  image: Bild_von_Selby.jpeg
+  links:
+    - icon: balloon-fill
+      text: RUB
+      href: https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/
+    - icon: balloon-fill
+      text: RTG
+      href: https://www.regional-disparities.de/
+---
+
+Hello everybody and welcome to the collection of our research!
+
+We are a group of young economic researchers located in the Ruhr area, Germany, connected by friendship, employment and love for doing economic research. Our interests and backgrounds are diverse, ranging from labor and education economics, to regional and urban economics, to trade and development economics to environmental economics. Our research incorporates both classical methods to establish causal inference, and modern machine learning techniques. We work with data from federal sources, geo-located spatial data, survey and mobilephone-app data elicited in field experiments as well as hand-collected data, such as data on train stations and tree coverage.
+
+So if you have a few minutes time, just browse our projects, find something interesting, and maybe you can learn something new and exciting!
+
+Best,
+
+Joschka, Sven, ...

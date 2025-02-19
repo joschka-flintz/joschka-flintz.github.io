@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Our Projects",
+    "section": "",
+    "text": "On this page all projects of us are briefly presented.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe Value of Train Station Access\n\n\n\n\n\n\nHouse Prices\n\n\nTransportation\n\n\nSpatial Analysis\n\n\n\nTheory postulates that people are willing to pay a premium for living nearby public transportation infrastructure as it enhances a location’s accessibility. This study puts this theory to the test using data on house prices and train station openings in a Difference-in-Differences setting. Results suggest an average increase in residential house prices of 3.5% to 5% due to a nearby train station opening, indicating a substantial willingness to pay of about 10,000€ for train station access.\n\n\n\n\n\nJan 29, 2024\n\n\nJoschka Flintz\n\n\n\n\n\n\n\n\n\n\n\n\nEmission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis\n\n\n\n\n\n\nEnvironmental\n\n\nTransportation\n\n\nTax\n\n\n\nIn order to combat high emissions in its transportation sector, Germany reformed its tax on vehicle ownerhsip in 2021, increasing the yearly tax burden for owners of new cars with high CO2 emissions. However, an analysis of the tax reform’s impact on car fleet composition and CO2 emissions shows only limited effectiveness in incentivizing individuals to purchase more eco-friendly cars an average tax increase of about 11€ per year leads to a reduction in the average CO2 intesnity of new cars of only 0.74g/km CO2.\n\n\n\n\n\nJan 29, 2024\n\n\nJoschka Flintz\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more somewhere here."
+  },
+  {
+    "objectID": "projects/name_joschka/trainstations_houseprices.html",
+    "href": "projects/name_joschka/trainstations_houseprices.html",
+    "title": "The Value of Train Station Access",
+    "section": "",
+    "text": "Train stations improve accessibility and therefore people would like to live nearby. This increases demand and translates into an increase in real estate values."
+  },
+  {
+    "objectID": "projects/name_joschka/trainstations_houseprices.html#train-stations-detemrine-distribution-of-spatial-activity",
+    "href": "projects/name_joschka/trainstations_houseprices.html#train-stations-detemrine-distribution-of-spatial-activity",
+    "title": "The Value of Train Station Access",
+    "section": "",
+    "text": "Train stations improve accessibility and therefore people would like to live nearby. This increases demand and translates into an increase in real estate values."
+  },
+  {
+    "objectID": "projects/name_joschka/trainstations_houseprices.html#what-is-the-impact-of-train-stations-on-house-prices",
+    "href": "projects/name_joschka/trainstations_houseprices.html#what-is-the-impact-of-train-stations-on-house-prices",
+    "title": "The Value of Train Station Access",
+    "section": "What is the impact of train stations on house prices?",
+    "text": "What is the impact of train stations on house prices?\nTo answer that question I look at train station openings and use them as a quasi-experiment for identification."
+  },
+  {
+    "objectID": "projects/name_joschka/trainstations_houseprices.html#very-cool-findings",
+    "href": "projects/name_joschka/trainstations_houseprices.html#very-cool-findings",
+    "title": "The Value of Train Station Access",
+    "section": "Very cool findings",
+    "text": "Very cool findings\nIndeed, the results are quite cool."
+  },
+  {
+    "objectID": "people/name_sven/Sven.html",
+    "href": "people/name_sven/Sven.html",
+    "title": "Sven WUE",
+    "section": "",
+    "text": "Sven is a research assistant at Ruhr-university Bochum and a krasser Ficker"
+  },
+  {
+    "objectID": "people/name_sven/Sven.html#education",
+    "href": "people/name_sven/Sven.html#education",
+    "title": "Sven WUE",
+    "section": "Education",
+    "text": "Education\nRuhr University Bochum | Bochum M.Sc in Economics | Sept 2011 - June 2015\nRuhr University Bochum | Bochum B.Sc in Management & Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hello everybody and welcome to the collection of our research!\nWe are a group of young economic researchers located in the Ruhr area, Germany, connected by friendship, employment and love for doing economic research. Our interests and backgrounds are diverse, ranging from labor and education economics, to regional and urban economics, to trade and development economics to environmental economics. Our research incorporates both classical methods to establish causal inference, and modern machine learning techniques. We work with data from federal sources, geo-located spatial data, survey and mobilephone-app data elicited in field experiments as well as hand-collected data, such as data on train stations and tree coverage.\nSo if you have a few minutes time, just browse our projects, find something interesting, and maybe you can learn something new and exciting!\nBest,\nJoschka, Sven, …"
+  },
+  {
+    "objectID": "people/name_joschka/Joschka.html",
+    "href": "people/name_joschka/Joschka.html",
+    "title": "Joschka Flintz",
+    "section": "",
+    "text": "Joschka Flintz is a research assistant at Ruhr-university Bochum and doctoral researcher in the RTG Regional Disparities and Economic Policy. Joschka’s research interests include environmental economics, regional and urban economics, especially with regards to mobility and transportation issues, as well as applied microeconometrics."
+  },
+  {
+    "objectID": "people/name_joschka/Joschka.html#education",
+    "href": "people/name_joschka/Joschka.html#education",
+    "title": "Joschka Flintz",
+    "section": "Education",
+    "text": "Education\nRuhr University Bochum | PhD student | Oct 2021 - present\nRuhr University Bochum | Bochum M.Sc in Economics | Sept 2011 - June 2015\nRuhr University Bochum | Bochum B.Sc in Management & Economics | Oct 2014 - June 2011"
+  },
+  {
+    "objectID": "people/name_joschka/Joschka.html#experience",
+    "href": "people/name_joschka/Joschka.html#experience",
+    "title": "Joschka Flintz",
+    "section": "Experience",
+    "text": "Experience\nRuh University Bochum | Research Assistant | Oct 2021 - present\nRWI - Institute for Economic Research | Research Assistant | Jan 2021 - present"
+  },
+  {
+    "objectID": "people/name_joschka/Joschka.html#projects",
+    "href": "people/name_joschka/Joschka.html#projects",
+    "title": "Joschka Flintz",
+    "section": "Projects",
+    "text": "Projects\nThe Value of Train Station Access\nEmission effects of the 2021 reformed motor vehicle tax: An empirical analysis (2022) with Manuel Frondel and Marco Horvath, AStA Wirtschafts-und Sozialstatistisches Archiv"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "That is Us",
+    "section": "",
+    "text": "Sven WUE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoschka Flintz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/name_joschka/vehicle_tax.html",
+    "href": "projects/name_joschka/vehicle_tax.html",
+    "title": "Emission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis",
+    "section": "",
+    "text": "It is a yearly tax."
+  },
+  {
+    "objectID": "projects/name_joschka/vehicle_tax.html#the-german-tax-on-vehicle-ownership",
+    "href": "projects/name_joschka/vehicle_tax.html#the-german-tax-on-vehicle-ownership",
+    "title": "Emission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis",
+    "section": "",
+    "text": "It is a yearly tax."
+  },
+  {
+    "objectID": "projects/name_joschka/vehicle_tax.html#the-decision-to-buy-a-vehicle",
+    "href": "projects/name_joschka/vehicle_tax.html#the-decision-to-buy-a-vehicle",
+    "title": "Emission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis",
+    "section": "The Decision to Buy a Vehicle",
+    "text": "The Decision to Buy a Vehicle\nWhen facing the decision which car to buy people try to maximize their utility …"
+  },
+  {
+    "objectID": "projects/name_joschka/vehicle_tax.html#tax-reform-had-limited-effect",
+    "href": "projects/name_joschka/vehicle_tax.html#tax-reform-had-limited-effect",
+    "title": "Emission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis",
+    "section": "Tax Reform had Limited Effect",
+    "text": "Tax Reform had Limited Effect\nNo substantial change in fleet composition"
+  }
+]

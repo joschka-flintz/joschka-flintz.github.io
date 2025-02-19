@@ -1,0 +1,36 @@
+---
+title: "Joschka Flintz"
+about:
+  template: solana
+  image: Bild_von_Selby.jpeg
+  links:
+    - icon: balloon-fill
+      text: RTG 
+      href: https://www.regional-disparities.de/
+    - icon: envelope
+      text: Email
+      href: "mailto:joschka.flintz@ruhr-uni-bochum.de" 
+image: Bild_von_Selby.jpeg
+---
+
+Joschka Flintz is a research assistant at Ruhr-university Bochum and doctoral researcher in the RTG Regional Disparities and Economic Policy. Joschka's research interests include environmental economics, regional and urban economics, especially with regards to mobility and transportation issues, as well as applied microeconometrics.
+
+## Education
+
+Ruhr University Bochum \| PhD student \| Oct 2021 - present
+
+Ruhr University Bochum \| Bochum M.Sc in Economics \| Sept 2011 - June 2015
+
+Ruhr University Bochum \| Bochum B.Sc in Management & Economics \| Oct 2014 - June 2011
+
+## Experience
+
+Ruh University Bochum \| Research Assistant \| Oct 2021 - present
+
+RWI - Institute for Economic Research \| Research Assistant \| Jan 2021 - present
+
+## Projects
+
+[The Value of Train Station Access](../../projects/name_joschka/trainstation_houseprices.qmd)
+
+[Emission effects of the 2021 reformed motor vehicle tax: An empirical analysis](../../projects/name_joschka/vehicle_tax.qmd) (2022) with Manuel Frondel and Marco Horvath, *AStA Wirtschafts-und Sozialstatistisches Archiv*

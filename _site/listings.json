@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/name_joschka/trainstations_houseprices.html",
+      "/projects/name_joschka/vehicle_tax.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/name_sven/Sven.html",
+      "/people/name_joschka/Joschka.html"
+    ]
+  }
+]

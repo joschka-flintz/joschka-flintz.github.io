@@ -1,0 +1,25 @@
+---
+title: "Emission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis"
+author: 
+  name: Joschka Flintz
+  url: ../../people/name_joschka/Joschka.qmd
+date: "01/29/2024"
+categories:
+  - Environmental
+  - Transportation
+  - Tax
+page-layout: full
+description: In order to combat high emissions in its transportation sector, Germany reformed its tax on vehicle ownerhsip in 2021, increasing the yearly tax burden for owners of new cars with high CO2 emissions. However, an analysis of the tax reform's impact on car fleet composition and CO2 emissions shows only limited effectiveness in incentivizing individuals to purchase more eco-friendly cars an average tax increase of about 11€ per year leads to a reduction in the average CO2 intesnity of new cars of only 0.74g/km CO2. 
+---
+
+## The German tax on vehicle ownership
+
+It is a yearly tax.
+
+## The Decision to Buy a Vehicle
+
+When facing the decision which car to buy people try to maximize their utility ...
+
+## Tax Reform had Limited Effect
+
+No substantial change in fleet composition

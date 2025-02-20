@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Our Research - Our Projects</title>
+<title>Joschka Flintz -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,12 +26,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -42,18 +36,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -68,70 +50,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-project-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-project-listings'] = new List('listing-project-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -139,22 +63,25 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Our Research</span>
+    <span class="navbar-title">Joschka Flintz</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
-<span class="menu-text">Our Projects</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
-<span class="menu-text">That is Us</span></a>
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./assets/JFlintz_CV.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -167,146 +94,63 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Environmental">Environmental <span class="quarto-category-count">(1)</span></div><div class="category" data-category="House Prices">House Prices <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Spatial Analysis">Spatial Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Tax">Tax <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Transportation">Transportation <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Our Projects</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
+<section id="journal-articles" class="level2">
+<h2 class="anchored" data-anchor-id="journal-articles">Journal Articles</h2>
+<p><a href="https://link.springer.com/article/10.1007/s11943-022-00310-w" target="_blank"><strong>Emissionswirkungen der 2021 reformierten Kfz-Steuer: Eine empirische Analyse</strong></a> with Manuel Frondel and Marco Horvath. <em>AStA Wirtschafts-und Sozialstatistisches Archiv</em> (2022)</p>
+<details>
+<summary>
+Abstract
+</summary>
+<p>
+At the beginning of 2021, the CO2-dependent component of the German vehicle tax was adjusted and made progressive, so that the tax burden for vehicles with high emission intensity increases disproportionately. This paper analyzes the effectiveness of the reformed vehicle tax in terms of its incentive effect and CO2 saving potential using the discrete demand model of Berry et al.&nbsp;(1995). Our estimation results show that with about 21,000 fewer cars sold annually as a result and a reduction in mean CO2 intensity of 0.74g/km, the annual CO2 emissions of newly purchased vehicles fall by about 60,000 tons. This moderate outcome is intuitive: an average tax increase of around 11 euros per annum does not have the steering effect that is needed to substantially reduce emissions. Our simulation results of a fictitious vehicle taxation with more progressive tax rates assumed here, which would result in an average tax increase of around 90 euros, would have significantly stronger effects and reduce the average CO2 emissions per kilometer of new cars by some 5g/km and reduce the number of new registrations by around 195,000 passenger cars. As a result, around 450,000 tons of CO2 might be saved annually. Nevertheless, a comparison with the annual emissions of the car fleet in Germany of around 100 million tons shows that even the effects of the fictitious progressive vehicle tax with higher tax rates would be very limited.
+</p>
+</details>
+</section>
+<section id="working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
+<p><a href="https://www.econstor.eu/handle/10419/306843" target="_blank"><strong>The Value of Passenger Rail Access</strong></a>. Ruhr Economic Papers (2024)</p>
+<details>
+<summary>
+Abstract
+</summary>
+<p>
+This study quantifies the effect of train station openings on residential house prices across Germany over a 12-year period to provide generalizable evidence on the valuation of access to passenger rail by households. It is based on data on about 90 train station openings between 2009 and 2020 in Germany and a Difference-in-Differences model that uses three different control group variants to cover alternative assumptions about unobserved regional heterogeneity to mitigate problems arising from endogenous transport infrastructure provision. The results indicate that train station openings increase residential house prices on average by 5% (€18,000) within a distance of up to two to three kilometers. Notably, these positive effects are observed exclusively for properties without prior access to passenger rail services, and are significantly larger in more densely populated and urban areas.
+</p>
+</details>
+<div style="height: 20px;">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>On this page all projects of us are briefly presented.</p>
-<div id="listing-project-listings" class="quarto-listing quarto-listing-container-default">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-project-listings-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-project-listings'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="House Prices,Transportation,Spatial Analysis" data-listing-date-sort="1706482800000" data-listing-file-modified-sort="1706555771216" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
-<div class="thumbnail">
-<p><a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external"></a></p><a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external">
-<p><img src="./projects/name_joschka/graphs/gg_map_train_gem.png" class="thumbnail-image" style="height: 6cm;"></p>
-</a><p><a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external">The Value of Train Station Access</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('House Prices'); return false;">
-House Prices
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Transportation'); return false;">
-Transportation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Spatial Analysis'); return false;">
-Spatial Analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external">Theory postulates that people are willing to pay a premium for living nearby public transportation infrastructure as it enhances a location’s accessibility. This study puts this theory to the test using data on house prices and train station openings in a Difference-in-Differences setting. Results suggest an average increase in residential house prices of 3.5% to 5% due to a nearby train station opening, indicating a substantial willingness to pay of about 10,000€ for train station access.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/name_joschka/trainstations_houseprices.html" class="no-external">
-<div class="listing-date">
-Jan 29, 2024
-</div>
-<div class="listing-author">
-Joschka Flintz
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="1" data-categories="Environmental,Transportation,Tax" data-listing-date-sort="1706482800000" data-listing-file-modified-sort="1706555759753" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<div class="thumbnail">
-<p><a href="./projects/name_joschka/vehicle_tax.html" class="no-external"></a></p><a href="./projects/name_joschka/vehicle_tax.html" class="no-external">
-<p class="card-img-top"><img src="Bild_von_Selby.jpeg" style="height: 6cm;"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/name_joschka/vehicle_tax.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/name_joschka/vehicle_tax.html" class="no-external">Emission Effects of the 2021 Reformed Motor Vehicle Tax: An Empirical Analysis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/name_joschka/vehicle_tax.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental'); return false;">
-Environmental
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Transportation'); return false;">
-Transportation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Tax'); return false;">
-Tax
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/name_joschka/vehicle_tax.html" class="no-external">In order to combat high emissions in its transportation sector, Germany reformed its tax on vehicle ownerhsip in 2021, increasing the yearly tax burden for owners of new cars with high CO2 emissions. However, an analysis of the tax reform’s impact on car fleet composition and CO2 emissions shows only limited effectiveness in incentivizing individuals to purchase more eco-friendly cars an average tax increase of about 11€ per year leads to a reduction in the average CO2 intesnity of new cars of only 0.74g/km CO2.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/name_joschka/vehicle_tax.html" class="no-external">
-<div class="listing-date">
-Jan 29, 2024
-</div>
-<div class="listing-author">
-Joschka Flintz
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p>You can find more somewhere <a href="https://www.quarto.com">here</a>.</p>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5087739" target="_blank"><strong>Individual Mobility and Public Transport Subsidies</strong></a> with Mark Andor and Colin Vance. USAEE Working Paper (2025)</p>
+<details>
+<summary>
+Abstract
+</summary>
+<p>
+Politicians around the world are looking for ways to reduce the negative externalities of the transport sector. Subsidization of public transport is a popular remedy, but evidence on the associated causal effects remains scant. Based on a randomized controlled trial that tracks mobility behavior continuously via a mobile app, this study provides causal evidence on how individuals modify their mobility patterns when provided with temporary cost-free access to public transport. We further explore whether such access induces enduring shifts in mobility behavior after the reinstatement of regular fares. We randomly provide roughly half of our around 420 participants - whose selection targeted car users - with a one-month public transport ticket for their local area, and monitor travel behavior across all modes over three months. We find a statistically significant average increase of about two trips per month using public transport during the subsidization period. The rise in public transport utilization, however, is not paralleled by a reduction in car usage, nor does it yield a persistent alteration in mobility behavior in the subsequent month after the ticket expires.
+</p>
+</details>
+</section>
+<section id="current-projects" class="level2">
+<h2 class="anchored" data-anchor-id="current-projects">Current Projects</h2>
+<p><strong>Train Stations and Car Ownership: Evidence from Station Openings in Germany</strong> with Stefanie Gäbler, Viktoria Kleinschmidt and Felix Rösel.</p>
+<details>
+<summary>
+Abstract
+</summary>
+<p>
+How much does railway infrastructure influence the modal shift from road to rail? This study investigates the effects of train stations on private car ownership. We analyze the openings of more than 170 train stations in Germany between 2009 and 2022, comparing them to a control group of locations identified as potential candidates for new stations. The results indicate that car registrations per household permanently decline by 4 to 6 percent in the proximity of a newly opened train station.
+</p>
+</details>
 
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

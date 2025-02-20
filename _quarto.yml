@@ -2,17 +2,23 @@ project:
   type: website
 
 website:
-  title: "Our Research"
+  title: "Joschka Flintz"
+  search: false
   navbar:
     left:
-      - projects.qmd
-      - people.qmd
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: assets/JFlintz_CV.pdf
+        target: "_blank"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    fontsize: 14pt
 
-editor: visual
 

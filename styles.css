@@ -1,1 +1,32 @@
 /* css styles */
+
+/*body {
+  font-size: 18px; /* Global font size for the entire document */
+/*}
+
+p {
+  font-size: 16px; /* Font size for paragraphs */
+/*}
+
+
+/* Center the navbar */
+/*nav .container {
+  display: flex;
+  justify-content: center; /* Center the entire navbar content */
+/*}
+
+/*nav .navbar-nav {
+  display: flex; /* Ensure the nav links are laid out horizontally */
+/*  justify-content: center;
+/*  width: 100%; /* This helps ensure proper centering */
+/*}
+
+/* Optional: Increase space above headers as well */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 50px; /* Adjust this value to your preference */
+}
+
+/* Font size for h2 headings */
+h2 {
+  font-size: 28px;
+}

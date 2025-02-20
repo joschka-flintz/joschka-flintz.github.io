@@ -1,0 +1,58 @@
+---
+title: ""
+---
+
+## Journal Articles
+
+
+
+[**Emissionswirkungen der 2021 reformierten Kfz-Steuer: Eine empirische Analyse**](https://link.springer.com/article/10.1007/s11943-022-00310-w){target="_blank"} with Manuel Frondel and Marco Horvath. *AStA Wirtschafts-und Sozialstatistisches Archiv*  (2022)
+
+<details>
+  <summary>Abstract</summary>
+  <p>
+    At the beginning of 2021, the CO2-dependent component of the German vehicle tax was adjusted and made progressive, so that the tax burden for vehicles with high emission intensity increases disproportionately. This paper analyzes the effectiveness of the reformed vehicle tax in terms of its incentive effect and CO2 saving potential using the discrete demand model of Berry et al. (1995). Our estimation results show that with about 21,000 fewer cars sold annually as a result and a reduction in mean CO2 intensity of 0.74g/km, the annual CO2 emissions of newly purchased vehicles fall by about 60,000 tons. This moderate outcome is intuitive: an average tax increase of around 11 euros per annum does not have the steering effect that is needed to substantially reduce emissions. Our simulation results of a fictitious vehicle taxation with more progressive tax rates assumed here, which would result in an average tax increase of around 90 euros, would have significantly stronger effects and reduce the average CO2 emissions per kilometer of new cars by some 5g/km and reduce the number of new registrations by around 195,000 passenger cars. As a result, around 450,000 tons of CO2 might be saved annually. Nevertheless, a comparison with the annual emissions of the car fleet in Germany of around 100 million tons shows that even the effects of the fictitious progressive vehicle tax with higher tax rates would be very limited.
+  </p>
+</details>
+
+
+
+## Working Papers
+
+[**The Value of Passenger Rail Access**](https://www.econstor.eu/handle/10419/306843){target="_blank"}. Ruhr Economic Papers (2024)
+
+<details>
+  <summary>Abstract</summary>
+  <p>
+This study quantifies the effect of train station openings on residential house prices across Germany over a 12-year period to provide generalizable evidence on the valuation of access to passenger rail by households. It is based on data on about 90 train station openings between 2009 and 2020 in Germany and a Difference-in-Differences model that uses three different control group variants to cover alternative assumptions about unobserved regional heterogeneity to mitigate problems arising from endogenous transport infrastructure provision. The results indicate that train station openings increase residential house prices on average by 5% (€18,000) within a distance of up to two to three kilometers. Notably, these positive effects are observed exclusively for properties without prior access to passenger rail services, and are significantly larger in more densely populated and urban areas.
+  </p>
+</details>
+
+<div style="height: 20px;"></div>
+
+
+[**Individual Mobility and Public Transport Subsidies**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5087739){target="_blank"} with Mark Andor and Colin Vance. USAEE Working Paper (2025)
+ 
+<details>
+  <summary>Abstract</summary>
+  <p>
+Politicians around the world are looking for ways to reduce the negative externalities of the transport sector. Subsidization of public transport is a popular remedy, but evidence on the associated causal effects remains scant. Based on a randomized controlled trial that tracks mobility behavior continuously via a mobile app, this study provides causal evidence on how individuals modify their mobility patterns when provided with temporary cost-free access to public transport. We further explore whether such access induces enduring shifts in mobility behavior after the reinstatement of regular fares. We randomly provide roughly half of our around 420 participants - whose selection targeted car users - with a one-month public transport ticket for their local area, and monitor travel behavior across all modes over three months. We find a statistically significant average increase of about two trips per month using public transport during the subsidization period. The rise in public transport utilization, however, is not paralleled by a reduction in car usage, nor does it yield a persistent alteration in mobility behavior in the subsequent month after the ticket expires.
+  </p>
+</details> 
+
+
+## Current Projects
+
+**Train Stations and Car Ownership: Evidence from Station Openings in Germany** with Stefanie Gäbler, Viktoria Kleinschmidt and Felix Rösel.
+
+<details>
+  <summary>Abstract</summary>
+  <p>
+  How much does railway infrastructure influence the modal shift from road to rail? This study         investigates the effects of train stations on private car ownership. We analyze the openings of more than 170 train stations in Germany between 2009 and 2022, comparing them to a control group of locations identified as potential candidates for new stations. The results indicate that car registrations per household permanently decline by 4 to 6 percent in the proximity of a newly opened train station. 
+  </p>
+</details>
+
+
+
+
+

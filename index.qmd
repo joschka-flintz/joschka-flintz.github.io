@@ -1,9 +1,12 @@
 ---
-title: "Welcome!"
+title: "Welcome to my homepage!"
 about:
-  template: jolla
-  image: Bild_von_Selby.jpeg
+  template: solana
+  image: assets/Bild_von_Selby.jpeg
   links:
+    - icon: envelope
+      text: Email
+      href: "mailto:joschka.flintz@ruhr-uni-bochum.de"
     - icon: balloon-fill
       text: RUB
       href: https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/
@@ -12,12 +15,13 @@ about:
       href: https://www.regional-disparities.de/
 ---
 
-Hello everybody and welcome to the collection of our research!
+I am a research assistant at the chair of [Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr University Bochum and doctoral researcher in the [RTG Regional Disparities and Economic Policy](https://www.regional-disparities.de/){target="_blank"}. My research interests include transport economics, environmental economics, as well as regional and urban economics.
 
-We are a group of young economic researchers located in the Ruhr area, Germany, connected by friendship, employment and love for doing economic research. Our interests and backgrounds are diverse, ranging from labor and education economics, to regional and urban economics, to trade and development economics to environmental economics. Our research incorporates both classical methods to establish causal inference, and modern machine learning techniques. We work with data from federal sources, geo-located spatial data, survey and mobilephone-app data elicited in field experiments as well as hand-collected data, such as data on train stations and tree coverage.
+In particular, my research so far has focused on
 
-So if you have a few minutes time, just browse our projects, find something interesting, and maybe you can learn something new and exciting!
+-   Vehicle registration taxes
+-   Public transport subsidies
+-   Rail infrastructure expansion
+-   Car ownership and mobility behavior
 
-Best,
-
-Joschka, Sven, ...
+You can find out more about my projects [here](research.qmd).

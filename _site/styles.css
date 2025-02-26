@@ -1,13 +1,5 @@
 /* css styles */
 
-/*body {
-  font-size: 18px; /* Global font size for the entire document */
-/*}
-
-p {
-  font-size: 16px; /* Font size for paragraphs */
-/*}
-
 
 /* Center the navbar */
 /*nav .container {
@@ -30,3 +22,15 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   font-size: 28px;
 }
+
+
+summary {
+    color: #333333 !important;
+}
+
+
+
+
+
+
+

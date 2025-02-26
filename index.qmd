@@ -5,23 +5,24 @@ about:
   image: assets/Bild_von_Selby.jpeg
   links:
     - icon: envelope
-      text: Email
+     # text: Email
       href: "mailto:joschka.flintz@ruhr-uni-bochum.de"
-    - icon: balloon-fill
-      text: RUB
-      href: https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/
-    - icon: balloon-fill
-      text: RTG
-      href: https://www.regional-disparities.de/
+    - icon: github
+      href: https://github.com/Passtar
+      target: "_blank"
+   # - icon: bank
+      #text: RTG
+    #  href: https://www.regional-disparities.de/
 ---
 
-I am a research assistant at the chair of [Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr University Bochum and doctoral researcher in the [RTG Regional Disparities and Economic Policy](https://www.regional-disparities.de/){target="_blank"}. My research interests include transport economics, environmental economics, as well as regional and urban economics.
+I am a PhD student in the in the [RTG Regional Disparities and Economic Policy](https://www.regional-disparities.de/){target="_blank"}, founded by the German Research Foundation, and a research assistant at the chair of [Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr University Bochum.
+I have a strong interest for transport economics, environmental economics, as well as regional and urban economics.
 
 In particular, my research so far has focused on
 
--   Vehicle registration taxes
--   Public transport subsidies
--   Rail infrastructure expansion
--   Car ownership and mobility behavior
+-   Car registration taxes and vehicle demand 
+-   Public transport subsidies and mobility behavior
+-   Rail infrastructure expansion and car ownership
+-   Willingness to pay for passenger rail access
 
 You can find out more about my projects [here](research.qmd).

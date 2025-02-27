@@ -5,14 +5,10 @@ about:
   image: assets/Bild_von_Selby.jpeg
   links:
     - icon: envelope
-     # text: Email
       href: "mailto:joschka.flintz@ruhr-uni-bochum.de"
     - icon: github
       href: https://github.com/joschka-flintz
       target: "_blank"
-   # - icon: bank
-      #text: RTG
-    #  href: https://www.regional-disparities.de/
 ---
 
 I am a PhD student in the in the [RTG Regional Disparities and Economic Policy](https://www.regional-disparities.de/){target="_blank"}, founded by the German Research Foundation, and a research assistant at the chair of [Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr University Bochum.

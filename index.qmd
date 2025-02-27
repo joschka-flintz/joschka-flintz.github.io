@@ -8,7 +8,11 @@ about:
      # text: Email
       href: "mailto:joschka.flintz@ruhr-uni-bochum.de"
     - icon: github
+<<<<<<< HEAD
       href: https://github.com/joschka-flintz
+=======
+      href: https://github.com/joschka.flintz
+>>>>>>> 102d668cb21a30b48afa5250febeb15979792be3
       target: "_blank"
    # - icon: bank
       #text: RTG

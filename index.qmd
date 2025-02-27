@@ -8,7 +8,7 @@ about:
      # text: Email
       href: "mailto:joschka.flintz@ruhr-uni-bochum.de"
     - icon: github
-      href: https://github.com/Passtar
+      href: https://github.com/joschka-flintz
       target: "_blank"
    # - icon: bank
       #text: RTG

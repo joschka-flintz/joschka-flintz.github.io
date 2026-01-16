@@ -50,6 +50,15 @@ Politicians around the world are looking for ways to reduce the negative externa
   </p>
 </details> 
 
+<div style="height: 15px;"></div>
+
+<details>
+  <summary>[**When Fans Travel: Determinants and Effects of Away Support in Football**](https://www.rwi-essen.de/publikationen/wissenschaftlich/ruhr-economic-papers/detail/when-fans-travel-determinants-and-effects-of-football){target="_blank"}. Ruhr Economic Papers (2025)</summary>
+  <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
+This study examines the determinants of away fan attendance in Germany’s top three football divisions over six seasons and assesses its impact on match outcomes. The analysis reveals that, after conditioning on home and away teams, distance and kick-off time are the most important predictors of away fan turnout. Moreover, away support is found to have a statistically significant positive effect on team performance: an additional 1,000 away fans are associated with a 4.6% to 7.5% increase in the probability of the away team winning or drawing the match. These findings suggest that league organizers should consider fan logistics and the potential influence of away fan presence when scheduling fixtures, in order to maintain sporting equity. At the club level, the results underscore the value of fostering fan engagement and indicate that strategies aimed at increasing away attendance may contribute to improved sporting outcomes.
+  </p>
+</details> 
+
 
 ## Work in Progress
 
@@ -57,9 +66,19 @@ Politicians around the world are looking for ways to reduce the negative externa
 <details>
   <summary>**Train Stations and Car Ownership: Evidence from Station Openings in Germany** with Stefanie Gäbler, Viktoria Kleinschmidt and Felix Rösel.</summary>
   <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
-  How much does railway infrastructure influence the modal shift from road to rail? This study         investigates the effects of train stations on private car ownership. We analyze the openings of more than 170 train stations in Germany between 2009 and 2022, comparing them to a control group of locations identified as potential candidates for new stations. The results indicate that car registrations per household permanently decline by 4 to 6 percent in the proximity of a newly opened train station. 
+  How much does railway infrastructure influence the modal shift from road to rail? This study investigates the effects of train stations on private car ownership. We analyze the openings of more than 170 train stations in Germany between 2009 and 2022, comparing them to a control group of locations identified as potential candidates for new stations. The results indicate that car registrations per household permanently decline by 4 to 6 percent in the proximity of a newly opened train station. 
   </p>
 </details>
+
+<div style="height: 15px;"></div>
+
+<details>
+  <summary>**Labor market tightness and business successions** with Jan Cornelius Peters and Martin Simmler.</summary>
+  <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
+  This paper studies the causal impact of skilled labor shortage on business successions, particularly on  their failure   resulting in firm exits. We outline an illustrative search model of managerial succession and empirically assess its     implications using firm level trade registry information from 2013 to 2023 combined with survey data on labor market     tightness at the level of region-sector cells. Identification exploits the increasing propensity to resign as            owner-managers approach retirement age. The results indicate that tighter labor markets significantly raise the likelihood of firm exit among firms led by older managers. Specifically, a one-standard-deviation increase in labor market tightness increases the probability of firm exit by 2.1 percentage points for firms with managers older than 50 years. Conditional on manager resignation, this corresponds to an increase in firms' exit probability of approximately 13 percentage points.
+  </p>
+</details>
+
 
 <!-- ::: -->
 

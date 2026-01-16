@@ -5,20 +5,23 @@ about:
   image: assets/Bild_von_Selby.jpeg
   links:
     - icon: envelope
-      href: "mailto:joschka.flintz@ruhr-uni-bochum.de"
+      href: "mailto:joschka.flintz@thuenen.de"
     - icon: github
       href: https://github.com/joschka-flintz
       target: "_blank"
 ---
 
-I am a PhD student in the in the [RTG Regional Disparities and Economic Policy](https://www.regional-disparities.de/){target="_blank"}, founded by the German Research Foundation, and a research assistant at the chair of [Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr University Bochum.
-I have a strong interest for transport economics, environmental economics, as well as regional and urban economics.
+I am a Postdoctoral researcher at the [Thünen-Institute of Rural Economics](https://www.thuenen.de/en/institutes/rural-areas/institute-of-rural-economics){target="_blank"}. 
+My research interests are transport economics, environmental economics, as well as regional and urban economics.
+I obtained my PhD as part of the [RTG Regional Disparities and Economic Policy](https://www.regional-disparities.de/){target="_blank"}, founded by the German Research Foundation, at Ruhr University Bochum. I am also member of the Research Network of the [RWI](https://www.rwi-essen.de/en/forschung-beratung/weitere/rwi-research-network/team).
+
 
 In particular, my research so far has focused on
 
 -   Car registration taxes and vehicle demand 
 -   Public transport subsidies and mobility behavior
--   Rail infrastructure expansion and car ownership
--   Willingness to pay for passenger rail access
+-   Rail infrastructure expansion 
+-   Labor market shortages and business successions
 
-You can find out more about my projects [here](research.qmd).
+
+You can find out more about my research [here](research.qmd).

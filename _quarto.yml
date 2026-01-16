@@ -11,6 +11,8 @@ website:
       - text: "CV"
         href: assets/JFlintz_CV.pdf
         target: "_blank"
+      - text: "Other projects"
+        href: other_projects.qmd
   page-footer: 
     right: "This website was created using [Quarto](https://quarto.org/){target='_blank'}."
 

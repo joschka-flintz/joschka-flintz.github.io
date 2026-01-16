@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome to my homepage! – Joschka Flintz</title>
+<title>Other projects – Joschka Flintz</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,6 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -79,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./other_projects.html"> 
+    <a class="nav-link active" href="./other_projects.html" aria-current="page"> 
 <span class="menu-text">Other projects</span></a>
   </li>  
 </ul>
@@ -95,44 +96,38 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to my homepage!</h1>
+<h1 class="title">Other projects</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header> <div class="about-links">
-  <a href="mailto:joschka.flintz@thuenen.de" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://github.com/joschka-flintz" class="about-link" rel="" target="_blank">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text"></span>
-  </a>
-</div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>I am a Postdoctoral researcher at the <a href="https://www.thuenen.de/en/institutes/rural-areas/institute-of-rural-economics" target="_blank">Thünen-Institute of Rural Economics</a>. My research interests are transport economics, environmental economics, as well as regional and urban economics. I obtained my PhD as part of the <a href="https://www.regional-disparities.de/" target="_blank">RTG Regional Disparities and Economic Policy</a>, founded by the German Research Foundation, at Ruhr University Bochum. I am also member of the Research Network of the <a href="https://www.rwi-essen.de/en/forschung-beratung/weitere/rwi-research-network/team">RWI</a>.</p>
-<p>In particular, my research so far has focused on</p>
-<ul>
-<li>Car registration taxes and vehicle demand</li>
-<li>Public transport subsidies and mobility behavior</li>
-<li>Rail infrastructure expansion</li>
-<li>Labor market shortages and business successions</li>
-</ul>
-<p>You can find out more about my research <a href="./research.html">here</a>.</p>
+  
 
 
-</main></div>
-    </div>
-    <img src="assets/Bild_von_Selby.jpeg" class="about-image
-  rounded " style="width: 15em;">
-  </div>
+</header>
+
+
+<div style="height: 15px;">
+
 </div>
- <!-- /main -->
+<a href="https://joschka-flintz.shinyapps.io/f1-elo-system/" target="_blank"><strong>Formula 1 Drive ELO System</strong></a>
+<p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
+This fun project constructs a very simple ELO system for Formula 1 drivers that compares drivers with their team mates and opponents from other constructors, taking into account differences in constructors’ car quality, to determine who is the greatest Formula 1 driver of all time. For more information on the ELO system and to run the system yourself, visit this <a href="https://joschka-flintz.shinyapps.io/f1-elo-system/">shiny application</a>.
+</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -153,6 +148,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

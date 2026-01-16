@@ -1,0 +1,12 @@
+---
+title: "Other projects"
+---
+  
+<div style="height: 15px;"></div>
+
+  [**Formula 1 Drive ELO System**](https://joschka-flintz.shinyapps.io/f1-elo-system/){target="_blank"}
+  <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
+    This fun project constructs a very simple ELO system for Formula 1 drivers that compares drivers with their team mates and opponents from other constructors, taking into account differences in constructors' car quality, to determine who is the greatest Formula 1 driver of all time. For more information on the ELO system and to run the system yourself, visit this [shiny application](https://joschka-flintz.shinyapps.io/f1-elo-system/).
+  </p>
+
+

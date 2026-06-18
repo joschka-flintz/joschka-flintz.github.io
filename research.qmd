@@ -5,23 +5,28 @@ title: "Research"
 <div style="height: 15px;"></div>
 
 
-<!-- ::: {.grid} -->
-
-<!-- ::: {.g-col-4 style="display: flex; flex-direction: column; align-items: center; justify-content: center;"} -->
-
-<!-- ![](assets/Bild_von_Selby.jpeg){width=250px} -->
-
-<!-- ### Joschka Flintz -->
-
-<!-- PhD Student at Ruhr University Bochum -->
-
-<!-- ::: -->
-
-
-<!-- ::: {.g-col-8} -->
-
 ## Journal Articles
 
+<details>
+  <summary>[**When Fans Travel: Determinants and Effects of Away Support in German Professional Football**](https://journals.sagepub.com/doi/10.1177/15270025261438384){target="_blank"}. Journal of Sports Economics (2026) | [GitHub](https://github.com/joschka-flintz/when-fans-travel){target="_blank"} </summary>
+  <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
+This study examines the determinants of away fan attendance in Germany's top three football divisions over six seasons and assesses its impact on match outcomes. The analysis reveals that, after conditioning on home and away teams, distance and kick-off time are the most important predictors of away fan turnout. Moreover, away support is found to have a statistically significant positive effect on team performance: an additional 500 away fans are associated with a 2.3% to 3.8% increase in the probability of the away team winning the match. These findings suggest that league organizers should consider fan logistics and the potential influence of away fan presence when scheduling fixtures, in order to maintain sporting equity. At the club level, the results underscore the value of fostering fan engagement and indicate that strategies aimed at increasing away attendance may contribute to improved sporting outcomes.
+  </p>
+</details> 
+
+<details>
+  <summary style="margin-left: 20px;"><strong>Media Coverage</strong></summary>
+  <div style="margin-left: 20px; margin-top: 10px;">
+
+- [Studie zum Einfluss von Fußballfans bei Auswärtsspielen](https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/studie-zum-einfluss-von-fussballfans-bei-auswaertsspielen,dasrotesofa-2426.html){target="_blank"}. *DAS! Rote Sofa, NDR* (2026)
+- [Auswärtsfans und ihr Einfluss auf Fußballspiele](https://www.deutschlandfunknova.de/beitrag/fanfaktor-auswaertsfans-und-ihr-einfluss-auf-fussballspiele){target="_blank"}. *Deutschlandfunk Nova* (2026)
+- [Auswärtsfans als Erfolgsfaktor im Fußball: Neue Studie zeigt klaren Zusammenhang](https://www.radioeins.de/programm/sendungen/die_profis/archivierte_sendungen/beitraege/wirtschaftsforschung--wie-fussballfans-den-ausgang-von-auswaerts.html){target="_blank"}. *Die Profis, radio eins, RBB* (2025)
+
+  </div>
+</details>
+
+
+<div style="height: 15px;"></div>
 
 <details>
   <summary>[**Emissionswirkungen der 2021 reformierten Kfz-Steuer: Eine empirische Analyse**](https://link.springer.com/article/10.1007/s11943-022-00310-w){target="_blank"} with Manuel Frondel and Marco Horvath. *AStA Wirtschafts-und Sozialstatistisches Archiv*  (2022)</summary>
@@ -50,14 +55,6 @@ Politicians around the world are looking for ways to reduce the negative externa
   </p>
 </details> 
 
-<div style="height: 15px;"></div>
-
-<details>
-  <summary>[**When Fans Travel: Determinants and Effects of Away Support in Football**](https://www.rwi-essen.de/publikationen/wissenschaftlich/ruhr-economic-papers/detail/when-fans-travel-determinants-and-effects-of-football){target="_blank"}. Ruhr Economic Papers (2025)</summary>
-  <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
-This study examines the determinants of away fan attendance in Germany’s top three football divisions over six seasons and assesses its impact on match outcomes. The analysis reveals that, after conditioning on home and away teams, distance and kick-off time are the most important predictors of away fan turnout. Moreover, away support is found to have a statistically significant positive effect on team performance: an additional 1,000 away fans are associated with a 4.6% to 7.5% increase in the probability of the away team winning or drawing the match. These findings suggest that league organizers should consider fan logistics and the potential influence of away fan presence when scheduling fixtures, in order to maintain sporting equity. At the club level, the results underscore the value of fostering fan engagement and indicate that strategies aimed at increasing away attendance may contribute to improved sporting outcomes.
-  </p>
-</details> 
 
 
 ## Work in Progress

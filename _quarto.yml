@@ -23,5 +23,6 @@ format:
     css: styles.css
     toc: false
     fontsize: 14pt
-
-
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="qQfmnYvv0BnxvCryo-lfgBPgDqysB5VqWeXoA5AFKJU" />

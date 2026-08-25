@@ -55,19 +55,17 @@ Politicians around the world are looking for ways to reduce the negative externa
   </p>
 </details> 
 
-
-
-## Work in Progress
-
+<div style="height: 15px;"></div>
 
 <details>
-  <summary>**Train Stations and Car Ownership: Evidence from Station Openings in Germany** with Stefanie Gäbler, Viktoria Kleinschmidt and Felix Rösel.</summary>
+  <summary>[**Train Stations and Car Registrations: Evidence from Station Openings in Germany**](https://www.ifo.de/en/cesifo/publications/2026/working-paper/train-stations-and-car-registrations-evidence-station-openings){target="_blank"} with Stefanie Gäbler, Viktoria Kleinschmidt and Felix Rösel. CESifo Working Paper (2026)</summary>
   <p style="font-size: 16px; margin-top: 10px; margin-left: 20px;">
-  How much does railway infrastructure influence the modal shift from road to rail? This study investigates the effects of train stations on private car ownership. We analyze the openings of more than 170 train stations in Germany between 2009 and 2022, comparing them to a control group of locations identified as potential candidates for new stations. The results indicate that car registrations per household permanently decline by 4 to 6 percent in the proximity of a newly opened train station. 
+  Does better railway infrastructure encourage people to register less private cars? We analyse the opening of 170 train stations in Germany between 2010 and 2022 and compare them to a control group of locations that were identified as potential sites for new stations. Using a difference-in-differences approach, we find that annual car registrations within the catchment area of a newly opened station decline by at least 3.5 to 5.5 percent permanently. These effects are consistent in both urban and rural settings and correspond, on average, to at least 140 fewer car registrations over ten years for each new station. Further evidence suggests that the effects are driven by habit changes rather than by spatial sorting, leading to the conclusion that new train stations reduce the number of car registrations both locally and globally. 
   </p>
 </details>
 
-<div style="height: 15px;"></div>
+## Work in Progress
+
 
 <details>
   <summary>**Labor market tightness and business successions** with Jan Cornelius Peters and Martin Simmler.</summary>

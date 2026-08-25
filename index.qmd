@@ -25,3 +25,6 @@ In particular, my research so far has focused on
 
 
 You can find out more about my research [here](research.qmd).
+
+
+<!-- quarto publish gh-pages -->
